@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "autocomplete" : 
+  {
+    "elements" : 
+    [
+      {"id":"124125", "label" : "Provincia di Chieti", "tipo" : "ENTE"},
+      {"id":"123123", "label" : "Provincia di Teramo", "tipo" : "ENTE"},
+      {"id":"223232", "label" : "TESTCUP1", "tipo" : "CUP"},
+      {"id":"1241345325", "label" : "Provincia di L'Aquila", "tipo" : "ENTE"},
+      {"id":"1242423125", "label" : "TESTCUP2", "tipo" : "CUP"}
+    ]
   }
 }
