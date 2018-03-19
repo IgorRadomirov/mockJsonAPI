@@ -3,7 +3,7 @@
   {
     "elements" : 
     [
-      {"id":"124125", "label" : "Provincia di Chieti", "description" : "some text 1","tipo" : "ENTE"},
+      {"id":"43491", "label" : "Provincia di Brindisi", "description" : "some text 1","tipo" : "ENTE"},
       {"id":"123123", "label" : "Provincia di Teramo", "description" : "some text 2","tipo" : "ENTE"},
       {"id":"223232", "label" : "TESTCUP1", "description" : "some text 3","tipo" : "CUP"},
       {"id":"1241345325", "label" : "Provincia di L'Aquila", "description" : "some text 4","tipo" : "ENTE"},
