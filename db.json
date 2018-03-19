@@ -3,13 +3,13 @@
   {
     "elements" : 
     [
-      {"id":"124125", "label" : "Provincia di Chieti", "tipo" : "ENTE"},
-      {"id":"123123", "label" : "Provincia di Teramo", "tipo" : "ENTE"},
-      {"id":"223232", "label" : "TESTCUP1", "tipo" : "CUP"},
-      {"id":"1241345325", "label" : "Provincia di L'Aquila", "tipo" : "ENTE"},
-      {"id":"1242423125", "label" : "TESTCUP2", "tipo" : "CUP"},
-      {"id":"22", "label" : "CUP_UGUALI", "tipo" : "CUP"},
-      {"id":"23", "label" : "CUP_UGUALI", "tipo" : "CUP"}
+      {"id":"124125", "label" : "Provincia di Chieti", "description" : "some text 1","tipo" : "ENTE"},
+      {"id":"123123", "label" : "Provincia di Teramo", "description" : "some text 2","tipo" : "ENTE"},
+      {"id":"223232", "label" : "TESTCUP1", "description" : "some text 3","tipo" : "CUP"},
+      {"id":"1241345325", "label" : "Provincia di L'Aquila", "description" : "some text 4","tipo" : "ENTE"},
+      {"id":"1242423125", "label" : "TESTCUP2", "description" : "some text 5","tipo" : "CUP"},
+      {"id":"22", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 1","tipo" : "CUP"},
+      {"id":"23", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 2","tipo" : "CUP"}
     ]
   }
 }
