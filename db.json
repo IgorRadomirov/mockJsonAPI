@@ -7,7 +7,9 @@
       {"id":"123123", "label" : "Provincia di Teramo", "tipo" : "ENTE"},
       {"id":"223232", "label" : "TESTCUP1", "tipo" : "CUP"},
       {"id":"1241345325", "label" : "Provincia di L'Aquila", "tipo" : "ENTE"},
-      {"id":"1242423125", "label" : "TESTCUP2", "tipo" : "CUP"}
+      {"id":"1242423125", "label" : "TESTCUP2", "tipo" : "CUP"},
+      {"id":"22", "label" : "CUP_UGUALI", "tipo" : "CUP"},
+      {"id":"23", "label" : "CUP_UGUALI", "tipo" : "CUP"}
     ]
   }
 }
