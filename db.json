@@ -12,9 +12,9 @@
       {"id":"23", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 2","tipo" : "CUP"}
     ]
   },
-  "4321" :
+  "PROCIT" :
   [{
-    "id" : 1,
+    "id" : 4321,
     "payload" : 
     {
       "hola" : "hey1"
