@@ -11,5 +11,12 @@
       {"id":"22", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 1","tipo" : "CUP"},
       {"id":"23", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 2","tipo" : "CUP"}
     ]
+  },
+  "4321" :
+  {
+    "PROCIT" : 
+    {
+      "hola" : "hey"
+    }
   }
 }
