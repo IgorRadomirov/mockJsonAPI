@@ -3,7 +3,7 @@
   {
     "elements" : 
     [
-      {"id":"43491", "label" : "Provincia di Brindisi", "description" : "some text 1","tipo" : "ENTE"},
+      {"id":"4321", "label" : "Citta' Metropolitana di Bari", "description" : "some text 1","tipo" : "ENTE"},
       {"id":"123123", "label" : "Error", "description" : "some text 2","tipo" : "ERROR"},
       {"id":"223232", "label" : "TESTCUP1", "description" : "some text 3","tipo" : "CUP"},
       {"id":"1241345325", "label" : "Provincia di L'Aquila", "description" : "some text 4","tipo" : "ENTE"},
