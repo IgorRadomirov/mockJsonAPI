@@ -5,9 +5,6 @@
     [
       {"id":"4321", "label" : "Citta' Metropolitana di Bari", "description" : "some text 1","tipo" : "ENTE"},
       {"id":"123123", "label" : "Error", "description" : "some text 2","tipo" : "ERROR"},
-      {"id":"223232", "label" : "TESTCUP1", "description" : "some text 3","tipo" : "CUP"},
-      {"id":"1241345325", "label" : "Provincia di L'Aquila", "description" : "some text 4","tipo" : "ENTE"},
-      {"id":"1242423125", "label" : "TESTCUP2", "description" : "some text 5","tipo" : "CUP"},
       {"id":"22", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 1","tipo" : "CUP"},
       {"id":"23", "label" : "CUP_UGUALI", "description" : "CUP_UGUALI discriminante 2","tipo" : "CUP"}
     ]
@@ -306,13 +303,6 @@
        "nInterventiAttivi":8,
        "totaleAmmissibile":3787048.79,
        "totaleInterventiAttivi":1020000.00
-    }
-  },
-   {
-    "id" : 2,
-    "payload" : 
-    {
-      "hola" : "hey2"
     }
   }]
 }
