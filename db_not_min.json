@@ -437,6 +437,10 @@
 	    	"totaleAmmissibile":3787048.79,
 	    	"totaleInterventiAttivi":1020000.00
 	    }]
-	}
+	},
+	  {
+	    "id" : 12345,
+	    "payload" : []
+	  } 
   ]
 }
