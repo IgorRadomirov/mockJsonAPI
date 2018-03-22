@@ -4,8 +4,9 @@
     "elements" : 
     [
       {"id":"4321", "label" : "Citta' Metropolitana di Bari", "description" : "some text 1","tipo" : "ENTE"},
-      {"id":"11111", "label" : "F11E15000050001", "description" : "CUP_UGUALI ok","tipo" : "CUP"},
-      {"id":"12345", "label" : "F11E15000050001", "description" : "CUP_UGUALI Error","tipo" : "CUP"}
+      {"id":"11111", "label" : "F11E15000050001", "description" : "CUP_UGUALI","tipo" : "CUP"},
+      {"id":"33333", "label" : "F11E15000050001", "description" : "CUP_UGUALI","tipo" : "CUP"},
+      {"id":"12345", "label" : "Citta X", "description" : "No Prog","tipo" : "ENTE"}
     ]
   },
   "PROCIT" :
